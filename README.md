@@ -1,6 +1,6 @@
 
 #These two files are Fiji Scripts in Python language (Jython) intended to facilitate the processing of big amounts of image data in .tif, .tiff or .czs format, 
-#generated using imaging microscopy techniques, in particular Confocal microscopy with X,Y,Y and two C planes. 
+#generated using imaging microscopy techniques, in particular Confocal microscopy time lapses with X,Y,Z and two C planes. 
 
 #"import_merge_stacks_divide2channels_export_single_pgn_affinity.py": Helps by importing a selected file,
 #automatically dividing the channels used, creating a maximal intensity projection of each of the Z-stacks for every time point,
